@@ -1,5 +1,5 @@
 <?php 
 /* Redirect browser */
-header("Location: http://www.yourwebsite.com/user.php"); 
+header("Location: https://www.realtysphere.in/"); 
 exit();
 ?>
